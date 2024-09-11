@@ -35,8 +35,9 @@ Your reaction time will be recorded and displayed. :chart_with_upwards_trend:
 
 ## Some screenshots for you :)
 - watch it in action!
-    - [here]()
-    - [another!]()
+    - [here](https://github.com/user-attachments/assets/d9ae8ffe-4a21-422f-8a86-cb5ed3011b4c)
+    - [another!](https://github.com/user-attachments/assets/8119dfbc-ecf1-4ea7-9075-67265dde9201)
+
 
 
 ## :wink: Stay in Touch! :v::heart:
